@@ -180,7 +180,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <hr/>
 
 <h2 id="registration">Registration</h2>
-<p>Please register <a href="https://goo.gl/forms/eAkbhL578cLa9m4x1">here</a>.</p>
+<p>Please register <a href="https://goo.gl/forms/Wo5sVKyEFQm2DjQB2">here</a>.</p>
 <hr/>
 
 {% comment %}
